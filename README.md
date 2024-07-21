@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/jaaviicarrascoo" target="blank">Javier Carrasco</a></h1>
 
 <h3 align="center">
-  A passionate Computer Science Student 🇮🇨🇪🇸
+  A Techie Computer Science Student 🇮🇨🇪🇸
 </h3>
 
 <p align="center">
@@ -16,15 +16,15 @@
 
 - 👨🏽‍💻 My personal portfolio <a href="https://github.com/jaaviicarrascoo" target="blank">here</a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🎓 I’m currently Studying Computer Science Engineering at <a href="https://www.uma.es" target="blank">Universidad de Málaga</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m also currently working on many personal projects using Java
 
 - 🤝 I’m available for freelancing.
 
 - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I love techregularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
 - 💬 Ask me about **Reactjs & React-Native**
 
