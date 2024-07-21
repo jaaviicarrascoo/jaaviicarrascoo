@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com" target="blank">Jao</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/jaaviicarrascoo" target="blank">Javier Carrasco</a></h1>
 
 <h3 align="center">
-  A passionate Computer Science Student 🇮🇨 🇪🇸
+  A passionate Computer Science Student 🇮🇨🇪🇸
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F3AF7&random=false&width=435&lines=I'm+peter+C;aka+%40joo;Computer+Science+Student;Problem-Solving+%26+Teamwork+Skills;%2Binfo+at%3A+joo.com" alt="Typing SVG">
+  <a href="https://github.com/jaaviicarrascoo">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F3AF7&random=false&width=435&lines=I'm+Javier+Carrasco;aka+%40jaaviicarrascoo;Computer+Science+Student;Problem-Solving+%26+Teamwork+Skills;%2Binfo+at%3A+jaaviicarrascoo.com" alt="Typing SVG">
   </a>
 </p>
 
