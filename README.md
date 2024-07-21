@@ -11,7 +11,7 @@
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="200" width="400" alt="PNG" src="https://imgur.com/Ei2EmF9.png">
+  <img align="right" top="500" height="400" width="400" alt="PNG" src="https://imgur.com/Ei2EmF9.png">
 </a>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
