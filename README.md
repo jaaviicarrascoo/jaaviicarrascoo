@@ -16,7 +16,7 @@
 
 - 👨🏽‍💻 My personal portfolio <a href="https://github.com/jaaviicarrascoo" target="blank">here</a>
 
-- 🎓 I’m currently Studying Computer Science Engineering at <a href="https://www.uma.es" target="blank">Universidad de Málaga</a>
+- 🎓 I’m currently Studying Computer Science Engineering Degree at <a href="https://www.uma.es" target="blank">Universidad de Málaga</a>
 
 - 🌱 I’m also currently working on many personal projects using Java
 
