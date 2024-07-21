@@ -14,6 +14,8 @@
   <img align="right" top="500" height="400" width="400" alt="PNG" src="https://imgur.com/Ei2EmF9.png">
 </a>
 
+- 👨🏽‍💻 My personal portfolio <a href="https://github.com/jaaviicarrascoo" target="blank">here</a>
+
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
 - 🌱 I’m currently Working on Mobile App(React-Native)
@@ -26,7 +28,7 @@
 
 - 💬 Ask me about **Reactjs & React-Native**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **mail@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
