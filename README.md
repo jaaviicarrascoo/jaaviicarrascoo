@@ -7,8 +7,7 @@ Javier Carrasco</a></h1>
 
 
 <p align="center">
-    <a href="https://github.com/jaaviicarrascoo">
-            "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F3AF7&random=false&width=435&lines=I'm+Javier+Carrasco;aka+%40jaaviicarrascoo;Computer+Science+Student;Problem-Solving+%26+Teamwork+Skills;%2Binfo+at%3A+jaaviicarrascoo.com"</a>
+    <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F3AF7&random=false&width=435&lines=I'm+Javier+Carrasco;aka+%40jaaviicarrascoo;Computer+Science+Student;Problem-Solving+%26+Teamwork+Skills;%2Binfo+at%3A+jaaviicarrascoo.com">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
