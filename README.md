@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/jaaviicarrascoo" target="blank">
 Javier Carrasco</a></h1>
-<h3 align="center">A passionate Computer Science Student &#127470; &#127464;&#127466; &#127480;</h3>
+<h3 align="center">A passionate Computer Science Student &#127470;&#127466;</h3>
 
 <p align="center">
     <a href="https://github.com/jaaviicarrascoo"><img
