@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/jaaviicarrascoo">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F3AF7&random=false&width=435&lines=I'm+Javier+Carrasco;aka+%40jaaviicarrascoo;Computer+Science+Student;Problem-Solving+%26+Teamwork+Skills;%2Binfo+at%3A+jaaviicarrascoo.com" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F3AF7&random=false&width=435&lines=I'm+Javier+Carrasco+Delgado;aka+%40jaaviicarrascoo;Computer+Science+Student;Problem-Solving+%26+Teamwork+Skills;%2Binfo+at%3A+jaaviicarrascoo.com" alt="Typing SVG">
   </a>
 </p>
 
