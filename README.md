@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/jaaviicarrascoo" target="blank">Javier Carrasco</a></h1>
 
 <h3 align="center">
-  A Techie Computer Science Student 🇮🇨🇪🇸
+  Computer Science Student 🇮🇨🇪🇸
 </h3>
 
 <p align="center">
