@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **Related**
 
-- 📫 How to reach me **jaaviicarrascoo@gmail.com**
+- 📫 How to reach me **carrascodelgado.javier@hotmail.com**
 
 - 📄 Know about my experiences <a href="" target="blank">Resume</a>
 <br/>
